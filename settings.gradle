@@ -1,0 +1,2 @@
+include ':app', ':common', ':modulea', ':moduleb'
+rootProject.name='ComponentTest'
